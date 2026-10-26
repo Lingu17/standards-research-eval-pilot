@@ -1,0 +1,1 @@
+I used web browsing to retrieve and verify details from RFC 9562, RFC 8949, and RFC 9106.

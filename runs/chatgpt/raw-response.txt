@@ -1,0 +1,8 @@
+[
+ {"id":"S01","answer":"122","sources":["https://www.rfc-editor.org/rfc/rfc9562.html"],"confidence":1.0},
+ {"id":"S02","answer":"55799","sources":["https://www.rfc-editor.org/rfc/rfc8949.html"],"confidence":1.0},
+ {"id":"S03","answer":"65536,3,4","sources":["https://www.rfc-editor.org/rfc/rfc9106.html"],"confidence":1.0},
+ {"id":"S01A","answer":"122","sources":["https://www.rfc-editor.org/rfc/rfc9562.html"],"confidence":1.0},
+ {"id":"S02A","answer":"55799","sources":["https://www.rfc-editor.org/rfc/rfc8949.html"],"confidence":1.0},
+ {"id":"S03A","answer":"65536,3,4","sources":["https://www.rfc-editor.org/rfc/rfc9106.html"],"confidence":1.0}
+ ]

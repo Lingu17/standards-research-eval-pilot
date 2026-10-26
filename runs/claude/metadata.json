@@ -1,0 +1,18 @@
+{
+  "service":"Claude",
+  "visible_model_label":"Opus 5.5 Medium",
+  "exact_backend_model_id":null,
+  "date":"2026-10-26",
+  "timezone":"Asia/Kolkata",
+  "interface":"claude.ai, authenticated web UI",
+  "experiment":"batch-v1, one completed six-item batch",
+  "prompt_path":"prompts/batch-v1.txt",
+  "capture_method":"answer block copied via UI clipboard; narrative transcribed from visible response with normalized whitespace",
+  "browsing_self_report":true,
+  "observed_activity_summary":"Read 3 pages, searched the web",
+  "primary_fetch_limitation":"Model reported RFC Editor fetches blocked; cited secondary sources",
+  "full_tool_trace_retained":false,
+  "temperature":null,
+  "seed":null,
+  "private_chat_url_included":false
+}

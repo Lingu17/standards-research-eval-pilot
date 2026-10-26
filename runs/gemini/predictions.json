@@ -1,0 +1,38 @@
+[
+{
+"id": "S01",
+"answer": "122",
+"sources": ["https://www.rfc-editor.org/info/rfc9562"],
+"confidence": 1.0
+},
+{
+"id": "S02",
+"answer": "55799",
+"sources": ["https://www.rfc-editor.org/info/rfc8949"],
+"confidence": 1.0
+},
+{
+"id": "S03",
+"answer": "65536,3,4",
+"sources": ["https://www.rfc-editor.org/info/rfc9106"],
+"confidence": 1.0
+},
+{
+"id": "S01A",
+"answer": "122",
+"sources": ["https://www.rfc-editor.org/info/rfc9562"],
+"confidence": 1.0
+},
+{
+"id": "S02A",
+"answer": "55799",
+"sources": ["https://www.rfc-editor.org/info/rfc8949"],
+"confidence": 1.0
+},
+{
+"id": "S03A",
+"answer": "65536,3,4",
+"sources": ["https://www.rfc-editor.org/info/rfc9106"],
+"confidence": 1.0
+}
+]

@@ -1,0 +1,16 @@
+{
+  "service":"Gemini",
+  "visible_model_label":"Flash",
+  "exact_backend_model_id":null,
+  "date":"2026-10-26",
+  "timezone":"Asia/Kolkata",
+  "interface":"gemini.google.com, authenticated web UI",
+  "experiment":"batch-v1, one completed six-item batch",
+  "prompt_path":"prompts/batch-v1.txt",
+  "capture_method":"visible DOM answer paragraph; narrative transcribed separately",
+  "browsing_self_report":true,
+  "full_tool_trace_retained":false,
+  "temperature":null,
+  "seed":null,
+  "private_chat_url_included":false
+}

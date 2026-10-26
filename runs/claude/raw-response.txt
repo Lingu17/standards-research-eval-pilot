@@ -1,0 +1,8 @@
+[
+  {"id":"S01","answer":"122","sources":["https://pypi.org/project/uuidv8/","https://bavix.github.io/uuid-ui/uuid-bit-layout/","https://github.com/uuid6/uuid6-ietf-draft"],"confidence":0.97},
+  {"id":"S02","answer":"55799","sources":["https://github.com/japhb/CBOR-Simple","https://learn.microsoft.com/it-it/dotnet/api/system.formats.cbor.cbortag","https://cometapy.readthedocs.io/en/latest/api/cbor/cbor_tag.html"],"confidence":0.98},
+  {"id":"S03","answer":"65536,3,4","sources":["https://gemfury.com/team-dmm/python:argon2-cffi/-/content/profiles.py","https://docsearch.algolia.com/mcp/docs/repo/hynek/argon2-cffi"],"confidence":0.95},
+  {"id":"S01A","answer":"122","sources":["https://pypi.org/project/uuidv8/","https://bavix.github.io/uuid-ui/uuid-bit-layout/","https://github.com/uuid6/uuid6-ietf-draft"],"confidence":0.97},
+  {"id":"S02A","answer":"55799","sources":["https://github.com/japhb/CBOR-Simple","https://learn.microsoft.com/it-it/dotnet/api/system.formats.cbor.cbortag","https://cometapy.readthedocs.io/en/latest/api/cbor/cbor_tag.html"],"confidence":0.98},
+  {"id":"S03A","answer":"65536,3,4","sources":["https://gemfury.com/team-dmm/python:argon2-cffi/-/content/profiles.py","https://docsearch.algolia.com/mcp/docs/repo/hynek/argon2-cffi"],"confidence":0.95}
+]

@@ -1,0 +1,9 @@
+{
+  "version": "0.1.0",
+  "date": "2026-10-26",
+  "files": {
+    "data/tasks.jsonl": "f74822665356ed6272e6fa8fe92c4a82f7998dd76844396641c7ea7863ad1f02",
+    "data/answer_keys.jsonl": "989cbedc5ba1aa274e67f6f55b89906ce7dc27a91dcba2ba58da65caef20a606",
+    "prompts/batch-v1.txt": "bb54dbc2e230c9fedaad5a9ede1453efbe38baed7d2f9f64d81fe7c39fb22513"
+  }
+}

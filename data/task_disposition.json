@@ -1,0 +1,10 @@
+{
+  "date": "2026-10-26",
+  "challenge_set_count": 0,
+  "calibration_family_count": 3,
+  "decisions": [
+    {"family":"S01","ids":["S01","S01A"],"status":"calibration_only","reason":"All tested services solved both conditions; direct predecessor RFC clue narrows discovery."},
+    {"family":"S02","ids":["S02","S02A"],"status":"calibration_only","reason":"All tested services solved both conditions; supplied bytes permit direct decoding."},
+    {"family":"S03","ids":["S03","S03A"],"status":"calibration_only","reason":"All tested services solved both conditions; common implementation profiles expose the answer."}
+  ]
+}
